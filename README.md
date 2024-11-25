@@ -30,3 +30,7 @@ Fichier batch pour exécuter facilement la simulation.
 Documentation complète du projet.
 
 
+![resultat](https://github.com/user-attachments/assets/b8a9980c-bc40-46fd-b3ff-215ea8e51458)
+
+
+
